@@ -1,6 +1,6 @@
 {
   "name": "files-walk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module to get all files path in directory and subdirectories",
   "main": "index.js",
   "scripts": {
