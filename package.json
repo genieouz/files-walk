@@ -1,0 +1,11 @@
+{
+  "name": "files-walk",
+  "version": "1.0.0",
+  "description": "A module to get all files path in directory and subdirectories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "genieouz",
+  "license": "ISC"
+}
